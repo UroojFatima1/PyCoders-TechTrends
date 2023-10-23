@@ -1,6 +1,8 @@
 **Welcome to Tech Trends!**
 
-Tech Trends is your ultimate resource for staying updated on the latest job trends in Software Quality Assurance, Software Engineering, and Data Analyst roles in Pakistan. This platform offers valuable insights, statistics, and analysis to assist job seekers, professionals, and employers in making informed decisions within these dynamic fields. Here, you can explore job market trends, skill requirements, and the most sought-after career opportunities, enabling you to stay ahead of the game in the Pakistani job market.
+Tech Trends is your ultimate resource for staying updated on the latest job trends in Pakistan's Software Quality Assurance, Software Engineering, and Data Analyst roles. This platform offers valuable insights, statistics, and analysis to assist job seekers, professionals, and employers in making informed decisions within these dynamic fields. Here, you can explore job market trends, skill requirements, and the most sought-after career opportunities, enabling you to stay ahead of the game in the Pakistani job market.
+
+**Note: As the website is not deployed few screenshots are added in the Website Screenshots folder.**
 
 **Features**
 
@@ -16,15 +18,15 @@ Tech Trends is your ultimate resource for staying updated on the latest job tren
 
 **How It Works**
 
-Tech Trends seamlessly combines data scraping, skill analysis, and website development to provide you with a comprehensive view of the job market in Pakistan. Here's how our new features are integrated into the system:
+Tech Trends seamlessly combines data scraping, skill analysis, and website development to provide you with a comprehensive view of the job market in Pakistan. Here's how our system works:
 
 **1. Data Scraping Using Scraping Bee's SDK (Python)**
 
-Data from LinkedIn job postings in Pakistan is collected using APIMATIC's Scrapping Bee SDK, while it is meticulously categorized by city, seniority level, and posting month, ensuring that our platform delivers specific and timely insights.
+Data from LinkedIn job postings in Pakistan is collected using APIMATIC's Scrapping Bee SDK. At the same time, it is meticulously categorized by city, seniority level, and posting month, ensuring that our platform delivers specific and timely insights.
 
 **2. Skill Analysis with OpenAI API**
 
-The job descriptions collected are sent to the OpenAI API for skill analysis, which is then used to create detailed insights into skill requirements for each job posting.
+The job descriptions collected are sent to the OpenAI API for skill analysis, then used to create detailed insights into skill requirements for each job posting.
 
 **3. Web Development with EJS and Node.js**
 
