@@ -15,6 +15,7 @@ Tech Trends is your ultimate resource for staying updated on the latest job tren
 **5. Tailored Search:** Our interactive filters enable you to customize your search based on city, skills, seniority level, and posting month. This level of customization empowers you to focus on the job trends that matter most to you and your career goals.
 
 **How It Works**
+
 Tech Trends seamlessly combines data scraping, skill analysis, and website development to provide you with a comprehensive view of the job market in Pakistan. Here's how our new features are integrated into the system:
 
 **1. Data Scraping Using Scraping Bee's SDK (Python)**
