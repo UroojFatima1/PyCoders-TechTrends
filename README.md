@@ -30,6 +30,6 @@ The job descriptions collected are sent to the OpenAI API for skill analysis, wh
 
 Our user-friendly website, built with EJS and Node.js, includes dedicated sections to view insights city-wise, skill-wise, seniority level-wise, and month-wise job postings, making it easier for you to access the information you need.
 
-4. Data Visualization Using Image Charts API
+**4. Data Visualization Using Image Charts API**
 
 Image Charts API is employed to create visually appealing and informative charts. These charts break down job market trends by city, skill, seniority level, and posting month, allowing for intuitive data visualization. Due to the unknown response format of Charts SDK on APIMATIC's website for TypeScript, the SDK is not used.
