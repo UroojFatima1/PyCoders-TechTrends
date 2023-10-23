@@ -1,0 +1,38 @@
+body{
+    background-color: #eff4f7a5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+select{
+    font-size: 16px;
+    margin: 5px 0;
+}
+h1{color:#234486}
+    .image-with-shadow {
+  width: 300px; /* Adjust the width and height to match your image size */
+  height: 200px;
+  background: url('your-image-url.jpg') no-repeat center center;
+  background-size: cover; /* This is for background images */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Adjust the shadow properties as needed */
+  border-radius: 8px; /* Optional: Add rounded corners */
+}
+img {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin: 20px 15px 20px 15px;
+}
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.info_container {
+    display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+        text-align: center;
+}
+p{
+    line-height: 25px;
+    width:70%;
+}

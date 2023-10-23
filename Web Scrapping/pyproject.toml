@@ -1,0 +1,12 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools>=61.0"]
+[project]
+name = "scrapingbee"
+description = "[ScrapingBee](https://www.scrapingbee.com) is the most powerful web scraping API on the web.      It will handle:  *   headless browsers *   proxies *   CAPTCHAs       So you don't have to.  But there's more.      The API also allows you to:  *   Extract complex structured information from any website with CSS selectors *   Run JavaScript scenario (click, scroll, form filling, etc ...) *   Take a screenshot of the website, the full page, a part of the screen       Feel free to create an account [here](https://app.scrapingbee.com/account/register) to get your API key. The first 1,000 API credits are on us!"
+version = "1.0.0"
+requires-python = ">=3.7"
+authors = [{name = "APIMatic Code Generator", email = "support@apimatic.io"}]
+dependencies = ["apimatic-core~=0.2.0", "apimatic-core-interfaces~=0.1.0", "apimatic-requests-client-adapter~=0.1.0", "python-dateutil~=2.8.1", "enum34~=1.1, >=1.1.10"]
+[project.optional-dependencies]
+testutils = ["pytest>=7.2.2"]

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tech Trends</title>
+    <link rel="icon" type="image/png" href="/jobseeker.png">
+    <link rel="stylesheet" type="text/css" href="/styles.css">
+    
+</head>
+
+<body>
+    <div class="info_container">
+    <h1>Tech Trends</h1>
+    <p>Welcome to Tech Trends, your go-to resource for 
+        staying up-to-date on the latest trends in Software Quality
+    Assurance, Software Engineering, and Data Analyst 
+    jobs in Pakistan. This platform provides valuable insights,
+    statistics, and analysis to help job seekers, professionals, and employers 
+    make informed decisions in these dynamic fields. Explore the job market trend, 
+    skill requirements, and most demanded career opportunities in these sectors to 
+    stay ahead of the game in the Pakistani job market. Plus, with the interactive filters, you can easily tailor your search to 
+    see job trends that matter most to you.</p>
+    <select id="filterDropdown">
+        <option value="All" >All</option>
+        <option value="DataAnalyst" <%= selectedFilter === 'DataAnalyst' ? 'selected' : '' %>>Data Analyst</option>
+        <option value="SoftwareEngineer" <%= selectedFilter === 'SoftwareEngineer' ? 'selected' : '' %>>Software Engineer</option>
+        <option value="SQA" <%= selectedFilter === 'SQA' ? 'selected' : '' %>>Software Quality Assurance</option>
+        <!-- Add more filter options here -->
+    </select>
+    </div>
+    <div class="image-container">
+        <img src="<%= lineChartUrl %>" id="linechart" alt="Line Chart">
+        <img src="<%= barChartUrl %>" id="barchart" alt="Bar Chart">
+        <img src="<%= radarChartUrl %>" id="radarchart" alt="radar Chart">
+        <img src="<%= pieChartUrl %>" id="piechart" alt="Pie Chart">
+    </div>
+    
+<script>
+   const filterDropdown = document.getElementById('filterDropdown'); 
+   filterDropdown.addEventListener('change', () => {
+        const selectedFilter = filterDropdown.value;
+
+        // Update the URL to include the selected filter as a query parameter
+        window.location.href = `/?filter=${selectedFilter}`;});
+
+
+   
+</script>
+</body>
+
+</html>
