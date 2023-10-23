@@ -1,7 +1,9 @@
 **Welcome to Tech Trends!**
+
 Tech Trends is your ultimate resource for staying updated on the latest job trends in Software Quality Assurance, Software Engineering, and Data Analyst roles in Pakistan. This platform offers valuable insights, statistics, and analysis to assist job seekers, professionals, and employers in making informed decisions within these dynamic fields. Here, you can explore job market trends, skill requirements, and the most sought-after career opportunities, enabling you to stay ahead of the game in the Pakistani job market.
 
 **Features**
+
 **1. City-Wise Insights:** Explore job market trends and opportunities in different cities across Pakistan. Whether you're targeting a specific location or seeking broader regional insights, Tech Trends has you covered.
 
 **2. Skills-Wise Analysis:** Dive deep into the skills required for each job posting. Our AI-powered analysis categorizes skills by relevance and demand, helping you understand what expertise is essential in your field.
