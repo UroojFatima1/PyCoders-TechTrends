@@ -4,7 +4,7 @@ Tech Trends is your ultimate resource for staying updated on the latest job tren
 
 **Features**
 
-**1. City-Wise Insights:** Explore job market trends and opportunities in different cities across Pakistan. Whether you're targeting a specific location or seeking broader regional insights, Tech Trends has you covered.
+**1. City-Wise Insights:** Explore job market trends and opportunities in different cities across Pakistan. Whether you're targeting a specific city or country-wide insights, Tech Trends has you covered.
 
 **2. Skills-Wise Analysis:** Dive deep into the skills required for each job posting. Our AI-powered analysis categorizes skills by relevance and demand, helping you understand what expertise is essential in your field.
 
@@ -12,7 +12,7 @@ Tech Trends is your ultimate resource for staying updated on the latest job tren
 
 **4. Month-Wise Job Postings:** Stay informed about the changing landscape of job opportunities over time. We offer a month-by-month view of job postings, allowing you to track trends and make informed decisions.
 
-**5. Tailored Search:** Our interactive filters enable you to customize your search based on city, skills, seniority level, and posting month. This level of customization empowers you to focus on the job trends that matter most to you and your career goals.
+**5. Tailored Search:** Despite the holistic view, our interactive filters enable you to customize your search based on the domain of your choice, whether it be a Data Analyst, Software Engineer, or SQA.
 
 **How It Works**
 
